@@ -1,0 +1,244 @@
+{
+  "poe": [
+    {
+      "id": 1,
+      "asignacion": "Práctica1 version 1 CAST - Seguridad y pentesting de servidores de datos (M1.872)",
+      "idCode": "(31352 . 48320)",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "id": 2,
+      "asignacion": "PAC1 version 1 CAT - Arquitectura de bases de datos (75.607)",
+      "idCode": "(31409 . 48396)",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 3,
+      "asignacion": "Práctica1 version 1 CAT - Arquitectura de computadores (75.578)",
+      "idCode": "(31315 . 48276)",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "id": 4,
+      "asignacion": "Práctica1 version 2 CAST - Sistemas distribuídos (75.589)",
+      "idCode": "(31216 . 48123)",
+      "ganancia": 60,
+      "entregada": true
+    },
+    {
+      "id": 5,
+      "asignacion": "Práctica1 version 1 CAST - Sistemas distribuídos (75.589)",
+      "idCode": "(31185 . 48077)",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "id": 6,
+      "asignacion": "PAC2 version 1 CAST - Sistemas distribuídos (75.589)",
+      "idCode": "(31185 . 48078)",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 7,
+      "asignacion": "Práctica1 version 1 CAST - Comercio electrónico (M2.662)",
+      "idCode": "(31112 . 47959)",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "id": 8,
+      "asignacion": "PAC1 version 1 CAST - Sistemas distribuídos (75.589)",
+      "idCode": "(30797 . 47464)",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 9,
+      "asignacion": "Práctica1 version 1 CAST - Sistemas operativos (75.566)",
+      "idCode": "(30797 . 47465)",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "id": 10,
+      "asignacion": "Práctica1 version 3 CAST - Sistemas distribuídos (75.589)",
+      "idCode": "(31501 . 48519)",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "id": 11,
+      "asignacion": "PAC2 version 1 CAT - Arquitectura de computadores (75.578)",
+      "idCode": "(31535 . 48571)",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 12,
+      "asignacion": "PAC3 version 1 CAST - Sistemas distribuídos (75.589)",
+      "idCode": "(31552 . 48598)",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 13,
+      "asignacion": "Práctica2 version 1 CAST - Sistemas distribuídos (75.589)",
+      "idCode": "(31552 . 48599)",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "asignacion": "Práctica2 version 1 CAT - Arquitectura de computadores (75.578)",
+      "idCode": "(31769 . 48891)",
+      "ganancia": 50,
+      "entregada": false,
+      "id": 14
+    },
+    {
+      "asignacion": "PAC4 version 1 CAT - Protección de datos (M5.252)",
+      "idCode": "(31758 . 48877)",
+      "ganancia": 50,
+      "entregada": false,
+      "id": 15
+    },
+    {
+      "asignacion": "PAC2 version 3 CAST - Arquitectura de bases de datos (75.607)",
+      "idCode": "(31791 . 48917)",
+      "ganancia": 50,
+      "entregada": false,
+      "id": 16
+    }
+  ],
+  "poisson": [
+    {
+      "id": 1,
+      "asignacion": "Práctica1 version compartida CAST - Sistemas operativos (75.566)",
+      "idCode": "31217 . 48124",
+      "ganancia": 60,
+      "entregada": true
+    },
+    {
+      "id": 2,
+      "asignacion": "Práctica1 version 2 CAST - Sistemas operativos (75.566)",
+      "idCode": "31143 . 48004",
+      "ganancia": 60,
+      "entregada": true
+    },
+    {
+      "id": 3,
+      "asignacion": "PAC2 version 1 CAST - Arquitectura de bases de datos (75.607)",
+      "idCode": "31135 . 47990",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 4,
+      "asignacion": "Práctica2 version 1 CAT - Arquitectura de bases de datos (75.607)",
+      "idCode": "31183 . 48070",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "id": 5,
+      "asignacion": "PAC1 version 1 CAST - Sistemas distribuidos (81.546)",
+      "idCode": "30976 . 47686",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 6,
+      "asignacion": "PAC1 version 1 CAST - Arquitectura de bases de datos (75.607)",
+      "idCode": "31029 . 47788",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 7,
+      "asignacion": "Práctica1 version 1 CAT - Arquitectura de bases de datos (75.607)",
+      "idCode": "31008 . 47751",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "id": 8,
+      "asignacion": "PAC1 version 1 CAST - Sistemas operativos (75.566)",
+      "idCode": "31185 . 48074",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 9,
+      "asignacion": "PAC3 version 1 CAST - Comercio electrónico (M2.662)",
+      "idCode": "31401 . 48385",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 10,
+      "asignacion": "Práctica1 version 1 CAST - Sistemas operativos (75.566)",
+      "idCode": "(30797 . 47465)",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "id": 11,
+      "asignacion": "PAC1 version 2 CAST - Arquitectura de bases de datos (75.607)",
+      "idCode": "(31530 . 48560)",
+      "ganancia": 50,
+      "entregada": true
+    },
+    {
+      "id": 12,
+      "asignacion": "Práctica2 version 1 CAT - Sistemas operativos (75.566)",
+      "idCode": "(31535 . 48572)",
+      "ganancia": 80,
+      "entregada": true
+    },
+    {
+      "asignacion": "Práctica2 version 1 CAST - Sistemas operativos (75.566)",
+      "idCode": "(31552 . 48594)",
+      "ganancia": 60,
+      "entregada": true,
+      "id": 13
+    },
+    {
+      "asignacion": "PAC2 version 1 CAST - Sistemas operativos (75.566)",
+      "idCode": "(31552 . 48595)",
+      "ganancia": 50,
+      "entregada": false,
+      "id": 14
+    },
+    {
+      "asignacion": "PAC2 version 2 CAST - Arquitectura de bases de datos (75.607)",
+      "idCode": "(31718 . 48823)",
+      "ganancia": 50,
+      "entregada": false,
+      "id": 15
+    },
+    {
+      "asignacion": "PAC2 version 1 CAT - Sistemas operativos (75.566) ",
+      "idCode": "(31769 . 48892)",
+      "ganancia": 50,
+      "entregada": false,
+      "id": 16
+    },
+    {
+      "asignacion": "PAC3 version 1 CAT - Protección de datos (M5.252)",
+      "idCode": "(31635 . 48723)",
+      "ganancia": 50,
+      "entregada": false,
+      "id": 17
+    },
+    {
+      "asignacion": "Práctica2 version 1 CAT - Estructura de computadores (75.573)",
+      "idCode": "(31673 . 48771)",
+      "ganancia": 100,
+      "entregada": false,
+      "id": 18
+    }
+  ]
+}
